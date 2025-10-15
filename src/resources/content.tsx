@@ -97,8 +97,8 @@ const about: About = {
     display: true,
     title: "Introduction",
     description: (
-      <>
-        tandukuda is a 3D artist based in the bustling city of Surabaya, Indonesia, known for bringing hauntingly atmospheric visuals to life. From stage visuals and live productions to music videos and NFTs, tandukuda's work spans diverse media, each piece immersing the audience in an unforgettable, eerie experience.
+      <>   
+tandukuda is a 3D artist based in the bustling city of Surabaya, Indonesia, known for bringing hauntingly atmospheric visuals to life. From stage visuals and live productions to music videos and NFTs, tandukuda's work spans diverse media, each piece immersing the audience in an unforgettable, eerie experience.
       </>
     ),
   },
