@@ -2,10 +2,10 @@ import { About, Blog, Gallery, Home, Newsletter, Person, Social, Work } from "@/
 import { Line, Logo, Row, Text } from "@once-ui-system/core";
 
 const person: Person = {
-  firstName: "Selene",
-  lastName: "Yu",
-  name: `Selene Yu`,
-  role: "Design Engineer",
+  firstName: "Ridho",
+  lastName: "Ibrahim",
+  name: `tandukuda`,
+  role: "3D Designer & Graphic Designer",
   avatar: "/images/avatar.jpg",
   email: "example@gmail.com",
   location: "Asia/Jakarta", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
@@ -98,9 +98,7 @@ const about: About = {
     title: "Introduction",
     description: (
       <>
-        Selene is a Jakarta-based design engineer with a passion for transforming complex challenges
-        into simple, elegant design solutions. Her work spans digital interfaces, interactive
-        experiences, and the convergence of design and technology.
+        tandukuda is a 3D artist based in the bustling city of Surabaya, Indonesia, known for bringing hauntingly atmospheric visuals to life. From stage visuals and live productions to music videos and NFTs, tandukuda's work spans diverse media, each piece immersing the audience in an unforgettable, eerie experience.
       </>
     ),
   },
