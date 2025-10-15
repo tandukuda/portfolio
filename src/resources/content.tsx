@@ -108,9 +108,9 @@ Driven by a relentless passion for innovation, tandukuda explores avant-garde te
     title: "Work Experience",
     experiences: [
       {
-        company: "FLY",
-        timeframe: "2022 - Present",
-        role: "Senior Design Engineer",
+        company: "Sciencewerk",
+        timeframe: "2023 - Present",
+        role: "3D + Motion + Graphic Designer",
         achievements: [
           <>
             Redesigned the UI/UX for the FLY platform, resulting in a 20% increase in user
