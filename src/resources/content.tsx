@@ -5,7 +5,7 @@ const person: Person = {
   firstName: "Ridho",
   lastName: "Ibrahim",
   name: `tandukuda`,
-  role: "3D Designer & Visual Artist",
+  role: "3D & Visual Artist",
   avatar: "/images/avatar.jpg",
   email: "example@gmail.com",
   location: "Asia/Jakarta", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
@@ -49,7 +49,7 @@ const home: Home = {
   label: "Home",
   title: `${person.name}'s Portfolio`,
   description: `Portfolio website showcasing my work as a ${person.role}`,
-  headline: <>Turning ideas into stunning renders.</>,
+  headline: <>Building bridges between design and code</>,
   featured: {
     display: true,
     title: (
@@ -100,7 +100,8 @@ const about: About = {
       <>
         tandukuda is a 3D artist based in the bustling city of Surabaya, Indonesia, known for bringing hauntingly atmospheric visuals to life. From stage visuals and live productions to music videos and NFTs, tandukuda's work spans diverse media, each piece immersing the audience in an unforgettable, eerie experience.
 
-Driven by a relentless passion for innovation, tandukuda explores avant-garde techniques to create dark and captivating worlds that push the boundaries of digital design. With a unique style that merges horror and immersive storytelling, tandukuda’s work is crafted to leave a lasting impact, engaging viewers and sparking inspiration in those who encounter his haunting art.
+        Driven by a relentless passion for innovation, tandukuda explores avant-garde techniques to create dark and captivating worlds that push the boundaries of digital design. With a unique style that merges horror and immersive storytelling, tandukuda’s work is crafted to leave a lasting impact, engaging viewers and sparking inspiration in those who encounter his haunting art.
+      </>
     ),
   },
   work: {
@@ -110,7 +111,7 @@ Driven by a relentless passion for innovation, tandukuda explores avant-garde te
       {
         company: "Sciencewerk",
         timeframe: "2023 - Present",
-        role: "3D",
+        role: "3D & Graphic Designer",
         achievements: [
           <>
             Redesigned the UI/UX for the FLY platform, resulting in a 20% increase in user
