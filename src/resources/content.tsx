@@ -110,7 +110,7 @@ Driven by a relentless passion for innovation, tandukuda explores avant-garde te
       {
         company: "Sciencewerk",
         timeframe: "2023 - Present",
-        role: "3D + Motion + Graphic Designer",
+        role: "3D",
         achievements: [
           <>
             Redesigned the UI/UX for the FLY platform, resulting in a 20% increase in user
