@@ -103,7 +103,7 @@ tandukuda is a 3D artist based in the bustling city of Surabaya, Indonesia, know
     ),
   },
   work: {
-    display: true, // set to false to hide this section
+    display: false, // set to false to hide this section
     title: "Work Experience",
     experiences: [
       {
@@ -149,7 +149,7 @@ tandukuda is a 3D artist based in the bustling city of Surabaya, Indonesia, know
     ],
   },
   studies: {
-    display: true, // set to false to hide this section
+    display: false, // set to false to hide this section
     title: "Studies",
     institutions: [
       {
@@ -163,7 +163,7 @@ tandukuda is a 3D artist based in the bustling city of Surabaya, Indonesia, know
     ],
   },
   technical: {
-    display: true, // set to false to hide this section
+    display: false, // set to false to hide this section
     title: "Technical skills",
     skills: [
       {
