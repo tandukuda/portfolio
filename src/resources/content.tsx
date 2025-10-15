@@ -5,7 +5,7 @@ const person: Person = {
   firstName: "Ridho",
   lastName: "Ibrahim",
   name: `tandukuda`,
-  role: "3D Designer & Graphic Designer",
+  role: "3D Designer & Visual Artist",
   avatar: "/images/avatar.jpg",
   email: "example@gmail.com",
   location: "Asia/Jakarta", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
@@ -49,7 +49,7 @@ const home: Home = {
   label: "Home",
   title: `${person.name}'s Portfolio`,
   description: `Portfolio website showcasing my work as a ${person.role}`,
-  headline: <>Building bridges between design and code</>,
+  headline: <>Turning ideas into stunning renders.</>,
   featured: {
     display: true,
     title: (
